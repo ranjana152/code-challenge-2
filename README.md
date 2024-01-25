@@ -15,6 +15,7 @@ In a quaint village, the townsfolk celebrate the changing seasons with each pass
 ## Scenario 4
 In a bustling city, a diligent waiter introduces a futuristic tipping calculator that responds to various service ratings. As diners enjoy their meals, the calculator seamlessly computes tips based on the dining experience. A touch of innovation ensures fair compensation: "Terrible" warrants a 0% tip, "Poor" receives a 5% acknowledgment, "Good" merits a 10% appreciation, "Great" enjoys a 15% nod, and "Excellent" is rewarded with a generous 20% tip, making the dining experience not only delicious but also gratifying.
 
+## How to Use?
 Alas, for all the money in the world, he can't find a decent programmer to help him with this task. He's designed the front-end of the application and it looks great. He needs **YOU** to help him code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to propel this young man's football dream.
 
 ## What should you do?
